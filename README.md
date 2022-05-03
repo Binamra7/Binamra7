@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Hello, I'm Binamra - [Binamra][website] 👋
+# Hello, I'm [Binamra][website] 👋
 
 [![Website](https://img.shields.io/website?label=binamrakhadka.com.np&style=for-the-badge&url=http%3A%2F%2Fbinamrakhadka.com.np)](http://binamrakhadka.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/whoKhadka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FwhoKhadka&screen_name=whoKhadka)
@@ -14,27 +14,12 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](http://binamrakhadka.com.np)
+[<img src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg"/>](http://binamrakhadka.com.np)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/whoKhadka)
+[<img src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg"/>](https://twitter.com/whoKhadka)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/binamra7)
+[<img src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg"/>](https://linkedin.com/in/binamra7)
 &nbsp;&nbsp;
-[![facebook](./img/facebook-dark.svg)](https://facebook.com/whoBinamraKhadka)
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -61,22 +46,22 @@
 
 ---
 
-- ### <summary>:zap: GitHub Stats</summary>
+- ### :zap: GitHub Stats
 
 <br />
 
-- <img align="left" alt="Binamra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br />
+
+- &nbsp;&nbsp;<img align="left" alt="Binamra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
----
-
----
-
----
-
-- <img align="left" alt="Binamra's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+- &nbsp;&nbsp;<img align="left" alt="Binamra's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binamra7&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
 
   [website]: https://codeSTACKr.com
   [website__main]: http://binamrakhadka.com.np
