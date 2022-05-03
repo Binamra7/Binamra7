@@ -48,11 +48,8 @@
 
 - ### :zap: GitHub Stats
 
-- # <img align="left" alt="Binamra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+- <img align="left" alt="Binamra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<br />
-
-- &nbsp;&nbsp;<img align="left" alt="Binamra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
 
 <br />
 <br />
@@ -63,7 +60,6 @@
 <br />
 <br />
 
-- <img align="left" alt="Binamra's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 - &nbsp;&nbsp;<img align="left" alt="Binamra's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binamra7&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
 
