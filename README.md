@@ -2,7 +2,7 @@
 
 # Hello, I'm Binamra - [Binamra][website] 👋
 
-[![Website](https://img.shields.io/website?label=binamrakhadka.com.np&style=for-the-badge&url=https%3A%2F%2Fbinamrakhadka.com.np)](http://binamrakhadka.com.np)
+[![Website](https://img.shields.io/website?label=binamrakhadka.com.np&style=for-the-badge&url=http%3A%2F%2Fbinamrakhadka.com.np)](http://binamrakhadka.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/whoKhadka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FwhoKhadka&screen_name=whoKhadka)
 
 ## I'm a Student and a Full Stack Developer !!
@@ -69,6 +69,6 @@
 - <img align="left" alt="Binamra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binamra7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://codeSTACKr.com
-[website]: http://binamrakhadka.com.np
+[website__main]: http://binamrakhadka.com.np
 [twitter]: https://twitter.com/whoKhadka
 [linkedin]: https://linkedin.com/in/binamra7
