@@ -63,7 +63,7 @@
 
 - &nbsp;&nbsp;<img align="left" alt="Binamra's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binamra7&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
 
-  [website]: https://codeSTACKr.com
-  [website__main]: http://binamrakhadka.com.np
+
+  [website]: http://binamrakhadka.com.np
   [twitter]: https://twitter.com/whoKhadka
   [linkedin]: https://linkedin.com/in/binamra7
