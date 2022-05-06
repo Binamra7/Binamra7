@@ -7,7 +7,7 @@
 
 ## I'm a Student and a Full Stack Developer !!
 
-- 🌱 I'm a undergrad student studying CS
+- 🌱 I'm an undergrad student studying CS
 - 🌱 I’m currently building projects using React and Node
 - 👯 I’m looking to collaborate with other developers
 - ⚡ My hobbies include football, table-tennis, chess
